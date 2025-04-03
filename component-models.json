@@ -214,6 +214,13 @@
         "value": ""
       },
       {
+          "component": "text",
+          "valueType": "string",
+          "name": "imageTitle",
+          "label": "Title",
+          "value": ""
+      },
+      {
         "component": "richtext",
         "name": "text",
         "value": "",
